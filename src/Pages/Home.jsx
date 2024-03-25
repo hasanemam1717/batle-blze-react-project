@@ -1,12 +1,9 @@
-import Nav from "../Components/Nav";
+
 
 const Home = () => {
     return (
         <div>
-            {/* navber */}
-            <Nav></Nav>
-           
-
+            <h1>THis is also home page</h1>
         </div>
     );
 };
