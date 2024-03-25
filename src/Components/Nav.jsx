@@ -17,7 +17,7 @@ const Nav = () => {
     }
     console.log(theme);
     return (
-        <div className="navbar bg-base-100 shadow-lg px-10 fixed z-10">
+        <div className="navbar bg-base-100 shadow-lg px-10 fixed z-10 ">
         <div className="flex-1">
           <a className="btn btn-ghost text-2xl"><span className="text-orange-600 font">Batle</span>Byte</a>
         </div>
